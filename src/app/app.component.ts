@@ -10,5 +10,5 @@ import { StartseiteComponent } from './startseite/startseite.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'dachpc';
+  title = 'swiper';
 }
